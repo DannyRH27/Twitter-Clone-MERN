@@ -2,6 +2,9 @@
   "name": "mern-twitter",
   "version": "1.0.0",
   "description": "",
+  "engines": {
+    "node": "10.13.x"
+  },
   "main": "app.js",
   "scripts": {
     "start": "node app.js",
